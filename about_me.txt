@@ -1,0 +1,4 @@
+I am learning frontend development because I enjoy designing and building interactive web applications. 
+I want to master HTML, CSS, and JavaScript to create beautiful and functional user interfaces. 
+My goal is to become a skilled frontend developer and work on real-world projects.
+
